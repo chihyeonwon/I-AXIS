@@ -1,3 +1,6 @@
+I² AXIS asm는 외부에 노출된 조직의 IT 자산 정보와 이글루코퍼레이션 고유의 긴급 대응 등급(IEAC, IGLOO Emergency Action Classification) 기반 정보를 결합해 
+고위험군 이벤트를 우선 처리하는 보안관제 특화 공격 표면 관리 서비스이다.
+
 # I-AXIS
  아이스퀘어 액시스(I² AXIS) 이글루코퍼레이션
 ![image](https://github.com/user-attachments/assets/6ce278c6-1375-495b-b0fe-7b0225e66e4c)
